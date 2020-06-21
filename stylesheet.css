@@ -1,0 +1,58 @@
+body {
+    background-color: AntiqueWhite;
+}
+
+h1 {
+    color: DarkSlateGray;
+    text-align: center;
+}
+p {
+  color: black;
+  text-align: center;
+}
+span.boldtext {
+    font-weight: bold;
+}
+
+span.italictext {
+    font-style: italic;
+}
+table {
+  width: 90%;
+}
+
+th {
+  height: 70px;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 20px;
+  text-align: left;
+}
+th {
+  text-align: left;
+}
+td {
+  height: 50px;
+  vertical-align: bottom;
+}
+td {
+  text-align: left;
+}
+th {
+  height: 50px;
+  vertical-align: bottom;
+}
